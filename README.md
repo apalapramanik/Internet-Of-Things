@@ -1,5 +1,5 @@
 
-*CSCE 838: Cyber-Physical Systems and Internet of Things - Fall 2024*
+#CSCE 838: Cyber-Physical Systems and Internet of Things - Fall 2024
 
 A collection of IoT lab assignments exploring embedded systems programming, wireless communication, and cloud integration.
 
